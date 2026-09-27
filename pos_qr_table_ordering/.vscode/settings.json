@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["ontap"]
+  "cSpell.words": ["ontap"],
+  "java.configuration.updateBuildConfiguration": "automatic"
 }

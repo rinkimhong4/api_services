@@ -1,0 +1,8 @@
+# Example key.properties for signing release builds for Google Play Store upload
+# Copy this file to android/key.properties and replace with actual keystore values
+
+storePassword=123456
+keyPassword=123456
+keyAlias=upload
+storeFile=/Users/rirnkimhong/upload-keystore.jks
+

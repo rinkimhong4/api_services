@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Control</string>
+    <string name="device_admin_description">Allows Power Control to lock the screen on demand.</string>
+    <string name="accessibility_service_label">Power Control</string>
+    <string name="accessibility_service_description">Allows Power Control to show the Restart and Power Off menu on demand.</string>
+</resources>
